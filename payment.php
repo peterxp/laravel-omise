@@ -40,11 +40,11 @@ OmiseCustomer Object
     [_values:protected] => Array
         (
             [object] => customer
-            [id] => cust_test_553sk4x0g0ydw9s7704
+            [id] => cust_test_853sk4x0g0ydw9s7704
             [livemode] => 
-            [location] => /customers/cust_test_553sk4x0g0ydw9s7704
-            [default_card] => card_test_553sk4upsf76h4f8p1l
-            [email] => daikyo@ownday.com
+            [location] => /customers/cust_test_5453sk4x0g0ydw9s7704
+            [default_card] => card_test_5253sk4upsf76h4f8p1l
+            [email] => daikyo@abc.com
             [description] => Daikyo
             [created] => 2016-08-24T04:36:59Z
             [cards] => Array
@@ -56,15 +56,15 @@ OmiseCustomer Object
                     [limit] => 20
                     [total] => 1
                     [order] => 
-                    [location] => /customers/cust_test_553sk4x0g0ydw9s7704/cards
+                    [location] => /customers/cust_test_5453sk4x0g0ydw9s7704/cards
                     [data] => Array
                         (
                             [0] => Array
                                 (
                                     [object] => card
-                                    [id] => card_test_553sk4upsf76h4f8p1l
+                                    [id] => card_test_553sxk4upsf76h4f8p1l
                                     [livemode] => 
-                                    [location] => /customers/cust_test_553sk4x0g0ydw9s7704/cards/card_test_553sk4upsf76h4f8p1l
+                                    [location] => /customers/cust_test_553sk4x03g0ydw9s7704/cards/card_test_553sk4xupsf76h4f8p1l
                                     [country] => us
                                     [city] => 
                                     [postal_code] => 
@@ -74,7 +74,7 @@ OmiseCustomer Object
                                     [brand] => Visa
                                     [expiration_month] => 8
                                     [expiration_year] => 2028
-                                    [fingerprint] => wRHnsgn/CSUS5JbmdxnVU/U++p4MO7cSxLDLxy9bNdc=
+                                    [fingerprint] => wRHnsgn/CSUS5JbmdxnVU/U++p4MO7cSxccaLDLxy9bNdc=
                                     [name] => Daikyo
                                     [security_code_check] => 1
                                     [created] => 2016-08-24T04:36:59Z
@@ -86,8 +86,8 @@ OmiseCustomer Object
 
         )
 
-    [_secretkey:protected] => skey_test_51z5fp9zfnev8d3dqww
-    [_publickey:protected] => pkey_test_51z4rr9fpvp546yfysp
+    [_secretkey:protected] => skey_test_bb51z5fp9zfnev8d3dqww
+    [_publickey:protected] => pkey_test_c433451z4rr9fpvp546yfysp
 )
 */
 ?>
