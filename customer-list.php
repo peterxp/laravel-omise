@@ -45,7 +45,7 @@ id: "cust_test_553hyu5r2loom82ie8f",
 livemode: false,
 location: "/customers/cust_test_553hyu5r2loom82ie8f",
 default_card: "card_test_553hyop2j1uvr0vt5l7",
-email: "chai1@owndays.com",
+email: "chai1@sdfasdfdsf.com",
 description: "Chai (id:1)",
 created: "2016-08-23T10:33:48Z",
 cards: {
